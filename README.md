@@ -1,10 +1,10 @@
-<p align="center"><img src="images/logo.png" alt="함께하개" width="180"></p>
+<p align="center"><img src="profile/images/logo.png" alt="함께하개" width="180"></p>
 
 <h3 align="center">이 장소, 내 반려견이 들어갈 수 있을까요? 공공데이터 원문을 근거로 답합니다.</h3>
 
 <p align="center"><a href="https://paw-trail.click"><b>서비스 바로 가기</b></a> · <a href="https://paw-trail.click/privacy">개인정보처리방침</a> · <a href="#7-레포-안내">레포 안내</a></p>
 
-![함께하개 메인 화면](images/home-top.jpg)
+![함께하개 메인 화면](profile/images/home-top.jpg)
 
 *메인 — 인기 급상승 장소 카드마다 반려견 기준 판정이 붙습니다*
 
@@ -54,7 +54,7 @@
 검색 결과는 장소마다 반려견 기준 판정 뱃지를 달고, 맨 위에서 판정별 건수를 셉니다.
 판정에 필요한 조건이 하나라도 비어 있으면 「가능」 이라고 하지 않고 「확인 필요」 로 둡니다. 모르는 것을 가능으로 올리면, 헛걸음을 막으려는 서비스가 오히려 헛걸음을 만들기 때문입니다.
 
-![검색 결과 — 판정별 건수와 카드마다 판정 뱃지](images/search-top.jpg)
+![검색 결과 — 판정별 건수와 카드마다 판정 뱃지](profile/images/search-top.jpg)
 
 *공원 검색 결과 — 맨 위에 판정별 건수, 카드마다 판정 뱃지와 한 줄 근거*
 
@@ -63,15 +63,15 @@
 <details>
 <summary>화면 더 보기 — 메인 전체 · 검색 결과 전체 · 정보가 없어 「확인 필요」 인 장소</summary>
 
-![메인 화면 전체](images/home.jpg)
+![메인 화면 전체](profile/images/home.jpg)
 
 *메인 — 지역 날씨 · 검색 · 종류 · 인기 급상승 · 지금 판정 기준*
 
-![검색 결과 전체](images/search.jpg)
+![검색 결과 전체](profile/images/search.jpg)
 
 *검색 결과 전체 — 카드마다 거리 · 판정 뱃지 · 한 줄 근거*
 
-![정보가 없는 장소의 상세](images/detail-unknown.jpg)
+![정보가 없는 장소의 상세](profile/images/detail-unknown.jpg)
 
 *어비계곡 — 크기 조건이 적혀 있지 않아 「확인 필요」, 규정 줄마다 출처*
 
@@ -86,7 +86,7 @@
 반려견의 체중 · 크기 · 맹견 여부 · 이동장과 유모차 · 접종 증명서를 장소의 조건과 하나씩 맞대어, 마리마다 따로 판정합니다.
 여러 마리를 데려갈 때는 「모두 함께」 로 가장 엄격한 판정을 봅니다. 크기는 몸무게로 정해지므로, 믹스견 보호자도 크기를 몰라 막히지 않습니다.
 
-![같은 장소, 두 반려견의 확인 사항](images/basis-compare.jpg)
+![같은 장소, 두 반려견의 확인 사항](profile/images/basis-compare.jpg)
 
 *같은 장소의 확인 사항 — 위는 말티즈 5kg 기준으로 모두 통과, 아래는 골든 리트리버 25kg 기준으로 체중 제한에 걸립니다*
 
@@ -95,19 +95,19 @@
 <details>
 <summary>화면 더 보기 — 반려동물 정보 · 판정 기준 바꾸기 · 두 반려견의 장소 상세</summary>
 
-![반려동물 정보 수정](images/pet-edit.jpg)
+![반려동물 정보 수정](profile/images/pet-edit.jpg)
 
 *반려동물 정보 — 몸무게 · 접종 · 증명서 · 이동장과 유모차, 크기는 몸무게로 자동*
 
-![판정 기준 바꾸기](images/basis-picker.jpg)
+![판정 기준 바꾸기](profile/images/basis-picker.jpg)
 
 *판정 기준 바꾸기 — 한 마리씩, 또는 모두 함께*
 
-![말티즈 기준 장소 상세](images/detail-choco.jpg)
+![말티즈 기준 장소 상세](profile/images/detail-choco.jpg)
 
 *말티즈 5kg 기준 — 「동반 가능」*
 
-![골든 리트리버 기준 장소 상세](images/detail-mungchi.jpg)
+![골든 리트리버 기준 장소 상세](profile/images/detail-mungchi.jpg)
 
 *같은 장소, 골든 리트리버 25kg 기준 — 「동반 불가」*
 
@@ -122,7 +122,7 @@
 판정 줄마다 어느 기관의 어떤 자료, 어느 항목에 무엇이 적혀 있었는지를 원문 문장 그대로 붙입니다.
 그 값이 공공데이터 항목에 정해진 칸으로 있던 것인지, 안내문을 AI 가 읽어 낸 것인지도 함께 밝힙니다. AI 는 틀릴 수 있으므로, 「근거 원문 전체 보기」 로 누구나 원문을 직접 확인할 수 있습니다.
 
-![규정 — 판정 줄마다 출처와 원문](images/evidence-rules.jpg)
+![규정 — 판정 줄마다 출처와 원문](profile/images/evidence-rules.jpg)
 
 *한림공원의 규정 — 줄마다 기관 · 자료 · 항목, 그리고 원문 문장*
 
@@ -131,15 +131,15 @@
 <details>
 <summary>화면 더 보기 — 장소 상세 전체 · 기관별 원문</summary>
 
-![한림공원 장소 상세 전체](images/evidence-detail.jpg)
+![한림공원 장소 상세 전체](profile/images/evidence-detail.jpg)
 
 *한림공원 상세 전체 — 확인 사항 · 규정 · 출처끼리 다르게 적힌 조건*
 
-![근거 원문 — 한국관광공사 자료](images/evidence-source-1.jpg)
+![근거 원문 — 한국관광공사 자료](profile/images/evidence-source-1.jpg)
 
 *근거 원문 — 한국관광공사 반려동물 동반여행 API 원문, 원문 수정일과 가져온 날*
 
-![근거 원문 — 한국문화정보원 자료](images/evidence-source-2.jpg)
+![근거 원문 — 한국문화정보원 자료](profile/images/evidence-source-2.jpg)
 
 *근거 원문 — 한국문화정보원 반려동물 동반 가능 문화시설 CSV 원문*
 
@@ -154,7 +154,7 @@
 한 장소를 여러 자료에서 모아 하나로 합치고, 자료마다 조건이 다르면 한쪽을 고르지 않고 나란히 보여 줍니다. 같은 기관의 두 자료가 정면으로 다른 말을 하는 곳도 있습니다.
 사용자는 「정보가 틀렸어요」 로 제보할 수 있고, 관리자가 확인해 처리하면 결과가 알림으로 돌아갑니다.
 
-![출처끼리 다르게 적힌 조건](images/cross-conflict.jpg)
+![출처끼리 다르게 적힌 조건](profile/images/cross-conflict.jpg)
 
 *옥토끼우주센터 — 크기 제한을 한 자료는 「제한 없음」, 다른 자료는 「소형견만」 으로 적었습니다*
 
@@ -163,19 +163,19 @@
 <details>
 <summary>화면 더 보기 — 장소 상세 전체 · 제보 · 관리자 처리 · 알림</summary>
 
-![옥토끼우주센터 장소 상세 전체](images/cross-detail.jpg)
+![옥토끼우주센터 장소 상세 전체](profile/images/cross-detail.jpg)
 
 *옥토끼우주센터 상세 전체 — 이동장 조건의 근거 여러 줄과 출처끼리 다르게 적힌 조건*
 
-![정보가 틀렸어요 제보 창](images/cross-report.jpg)
+![정보가 틀렸어요 제보 창](profile/images/cross-report.jpg)
 
 *「정보가 틀렸어요」 — 틀린 조건과 맞는 값을 골라 제보*
 
-![관리자 제보 처리](images/cross-admin.jpg)
+![관리자 제보 처리](profile/images/cross-admin.jpg)
 
 *관리자 제보 처리 — 승인 · 반려, 정정하러 가기*
 
-![제보 결과 알림](images/cross-notice.jpg)
+![제보 결과 알림](profile/images/cross-notice.jpg)
 
 *처리 결과가 제보한 사람에게 알림으로 돌아갑니다*
 
@@ -220,7 +220,7 @@
 | 관리자 — 운영 | 한국관광공사 API 최신 수집 · 실행 기록 · 검색 색인 재구축 | [ingest](https://github.com/paw-trail/ingest-service) · [search](https://github.com/paw-trail/search-service) | [4절](#4-데이터가-흐르는-길) |
 | 개인정보처리방침 | 로그인 없이 열림 | [frontend](https://github.com/paw-trail/frontend) | — |
 
-![일정 · 길 안내](images/itinerary.jpg)
+![일정 · 길 안내](profile/images/itinerary.jpg)
 
 *일정 — 날짜별로 담은 장소와 판정 뱃지, 지도 위 동선, 구간을 골라 카카오맵 길 안내*
 
@@ -255,7 +255,7 @@ AI 가 읽은 값은 화면에 그렇다고 표시하고 원문을 함께 보여
 **#실시간수집 — 데이터가 바뀌면 다시 받습니다** — 관리자 화면에서 한국관광공사 API 의 최신 수집을 바로 실행할 수 있고, 매일 새벽 4시에는 바뀐 것만 받는 증분 수집이 예약으로 돕니다.
 수집은 원문을 담는 데까지만 하고, 조건을 다시 읽는 일은 사람이 확인한 뒤 돌립니다.
 
-![관리자 운영 — 최신 수집과 실행 기록](images/admin-ingest.jpg)
+![관리자 운영 — 최신 수집과 실행 기록](profile/images/admin-ingest.jpg)
 
 *관리자 운영 화면 — 소스마다 최신 수집 실행, 실행 기록, 검색 색인 재구축*
 
@@ -310,18 +310,18 @@ AI 가 읽은 값은 화면에 그렇다고 표시하고 원문을 함께 보여
 
 **운영 상태는 대시보드로 봅니다** — 서비스마다 요청 · 응답 시간 · JVM · DB · Kafka 지표를 모으고, 로그와 요청 추적을 한 화면에서 이어 봅니다 ([`infra` 의 관측 스택](https://github.com/paw-trail/infra#4-4-관측-스택)).
 
-![운영 대시보드 — 한눈에](images/grafana-overview.jpg)
+![운영 대시보드 — 한눈에](profile/images/grafana-overview.jpg)
 
 *운영 대시보드 「한눈에」 — 서비스별 상태 · 요청 · 응답 시간*
 
 <details>
 <summary>화면 더 보기 — 서비스 자세히</summary>
 
-![서비스 자세히 — 경로별 응답 시간과 JVM](images/grafana-service-1.jpg)
+![서비스 자세히 — 경로별 응답 시간과 JVM](profile/images/grafana-service-1.jpg)
 
 *서비스 자세히 — 경로별 응답 시간 · JVM · GC · 스레드*
 
-![서비스 자세히 — DB · Kafka · 로그](images/grafana-service-2.jpg)
+![서비스 자세히 — DB · Kafka · 로그](profile/images/grafana-service-2.jpg)
 
 *같은 화면 아래 — DB 연결 · Kafka · 로그 (계정 식별자는 가렸습니다)*
 
